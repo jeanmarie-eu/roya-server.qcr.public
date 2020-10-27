@@ -1,4 +1,4 @@
-FROM jmll/roya-server:0.0.1
+FROM jmll/roya-server:0.0.2
 
 ENV GLOW glow.qcr.public
 ENV GLOW_BRANCH 0.0.1
